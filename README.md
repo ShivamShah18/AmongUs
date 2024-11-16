@@ -54,6 +54,7 @@ Here are the controls to interact with the game:
 
 ```bash
 git clone https://github.com/your-username/space-station-simulation.git
+```
 
 --Compile and run the SpaceStation class using your IDE or terminal.
 

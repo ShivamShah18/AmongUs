@@ -16,13 +16,15 @@ A key: Adds a new Amogus character to the game at a random position with a rando
 Mouse Hover: Hovering over an Amogus character prints Mouse is over amogus! in the console.
 Mouse Click: Clicking on an Amogus character allows you to "drag" it around the screen.
 Mouse Release: Releasing the mouse stops dragging the character.
+
 **How to Play**
 Start the program.
 Observe the single initial Amogus on the screen.
 Press the **A** key to add more Amogus characters.
 Drag characters by clicking and holding them with your mouse. Release the mouse button to stop dragging.
 Watch for the impostor! When the impostor overlaps with other characters, they "unalive" (disappear).
-Requirements
+
+**Requirements**
 Java Development Kit (JDK) installed.
 The Utility library for graphical and input methods.
 The Amogus class to represent character behaviors.
